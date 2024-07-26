@@ -29,3 +29,12 @@ print(my_variable, str (variable_int), variable_bool)
 # funciones del sistema
 
 print (len(my_variable))
+
+
+# Inputs
+
+frist_name = input ("cual es tu nombre? ")
+print ("tu nombre es:", frist_name)
+
+edad = input('cual es tu edad ?')
+print ("tu edad es:", edad)
